@@ -1,6 +1,6 @@
 # signalsdatabase
 
-- Companionship of technology, anthropomorphizing of robots/ machines (i.e., personality of services like Alexa and Siri: "It’s so funny because I think ‘Oh wow, I am talking to a machine,’ but it doesn’t feel that way,” says Ms. Martin-Wood”, affinity for robotic “pet” dogs, tools for elderly, baby robot that reads emotions)
+- Companionship of technology, anthropomorphizing of robots/ machines (i.e., personality of services like Alexa and Siri: ["It’s so funny because I think ‘Oh wow, I am talking to a machine,’ but it doesn’t feel that way,”](http://www.wsj.com/articles/your-next-friend-could-be-a-robot-1476034599), affinity for robotic “pet” dogs, tools for elderly, baby robot that reads emotions)
 - AI (governing body/ open source/ evil dictator usage, concrete challenges paper)
 - Rise of smart machines/ systems/ robots (What are humans uniquely good at? What is our comparative advantage? And what is our place alongside these machines?)
 - Open access to information/ MOOCs
