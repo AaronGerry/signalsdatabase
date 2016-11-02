@@ -1,37 +1,37 @@
 # Signals Database
 
 - **Companionship of technology, anthropomorphizing of robots/ machines** (i.e., personality of services like Alexa and Siri: ["It’s so funny because I think ‘Oh wow, I am talking to a machine,’ but it doesn’t feel that way,”](http://www.wsj.com/articles/your-next-friend-could-be-a-robot-1476034599), [affinity for robotic “pet” dogs](https://soundcloud.com/wonderland-podcast), [tools for elderly](http://joyforall.hasbro.com/en-us), [baby robot that reads emotions](http://www.reuters.com/article/us-toyota-robot-baby-idUSKCN1230BR)
-- **AI** (governing body/ open source/ evil dictator usage, concrete challenges paper)
+- **AI** (governing body/ [open source](https://openai.com/blog/)/ evil dictator usage, [concrete challenges](https://arxiv.org/pdf/1606.06565v2.pdf))
 - **Rise of smart machines/ systems/ robots** (What are humans uniquely good at? What is our comparative advantage? And what is our place alongside these machines?)
 - **Open access to information/ MOOCs**
 - **Disconnect/ Non-understanding of tech we use** (loss of hard skills -> Romans forgetting how to build aqueducts)
 - **Sharing economy** (part-time workers, labor as a service, changing social governance/ safety net, etc.)
-- **Rapid urbanization** (slumification/ squatter cities, prediction of 80% urban in coming years, urban design (explore Alejandro Aravena further))
+- **Rapid urbanization** ([slumification](https://www.ted.com/talks/stewart_brand_proclaims_4_environmental_heresies?language=en#t-48116)/ squatter cities, prediction of 80% urban in coming years, [urban design](https://www.youtube.com/watch?v=e67c57wbFkw) (explore Alejandro Aravena further))
 - **Global warming/ Environmental shift impacting societies** (rising water levels -> forcing landscape shift, changing rain patters -> water warfare, geo-engineering -> release SO2 into air to cool planet, atomizing ocean water, etc.)
 - **Sustainable energy production** (Adoption of solar voltaics, reliance on oil/ sway in Washington. Impact of lobbying?, novel approaches( ie., harvesting electromagnetic waves in air))
-- **Local manufacturing/ production** (micro-reactors, 3D printing, change from economies of scale?, open-source production)
-- **GMOs and modified organisms** (resistant crops, bioluminescence -> light up trees instead of street lights, bacteria that produce cheese, open-source estrogen and insulin, hacking silkworms, synthetic biology)
-- **Genetically modified human** (programmable children, life extension, personalized medicine)
-- **Future of food** (lab grown meat/ eggs/ milk, etc., custom food based on your micro biome)
-- **Increasing needs of food production** (growing population, desertification/ damaged farmable land, urban farming/ aeroponics (combo with swarming drones)/ aquaponics, sustainable/ resilient agriculture (biochar), local/ home agricultural production (3D printed food and candy, Soda Stream))
+- **Local manufacturing/ production** (micro-reactors, 3D printing, change from economies of scale?, [open-source production](http://opensourceecology.org/))
+- **GMOs and modified organisms** (resistant crops, bioluminescence -> light up trees instead of street lights, [yeast that produce cheese](https://realvegancheese.org/), [open-source estrogen](http://maggic.ooo/Open-Source-Estrogen-2015) and [insulin](https://experiment.com/projects/open-insulin), [hacking silkworms](http://sputniko.com/2016/04/redsilkfate/), [synthetic biology](http://andrewhessel.com/))
+- **Genetically modified human** ([programmable children](http://aihasegawa.info/?works=impossible-baby-case-01-asako-moriga), life extension, personalized medicine)
+- **Future of food** ([lab grown meat](https://techcrunch.com/gallery/10-lab-made-meats-cheeses-and-other-odd-startup-foods/)/ eggs/ milk, etc., custom food based on your micro biome)
+- **Increasing needs of food production** (growing population, desertification/ damaged farmable land, urban farming/ aeroponics (combo with swarming drones)/ aquaponics, sustainable/ resilient agriculture (biochar), local/ home agricultural production ([3D printed food](https://www.naturalmachines.com/) and [candy](http://candyfab.org/), Soda Stream))
 - **More integrated supply chains** (democratizing access to existing chains (ie., ColaLife), vulnerabilities in chain/ lack of monitoring)
-- All digital shopping? (virtual shopping everywhere (ie., Tesco’s virtual grocery store in Korea, Starbucks car dashboard app) eliminate need to go to store/ JIT delivery or store pick up, eliminate need to make decision to order (ie., Amazon’s button, or refrigerators that know when milk is low)
-- Increasing amount of free/ leisure time (connect with food: more home-cooked meals + products that help to learn (Blue Apron) + health + studies showing less mindful eating (HAPIfork) = bigger waistline //
-- Altering senses and changing behavior (using VR to augment pain for burn victims, magnet in finger tip to feel magnetic fields, altering body/ how food tastes to move away from natural proclivities towards salt, fat, sugar/ tricking body to believe it’s eating something else by altering senses)
-- Open-source governance (how Estonia is changing the game)
-- Extensions beyond cryptocurrency, and how this can influence governance. Beyond government as we know it
-- Automation again, cycle of impacts from automation technology
-- Attention economy -> “push of the web/ push economy" (how FB algorithm works, contextualization of information, echo-chamber/ constructed thinking)
-- Citizen scientists or cheap labor? (the changing dynamic of employee/ organization. Free agent society?, pooling of personal data (ie., PatientsLikeMe), organizational volunteering (i.e., Galaxy Zoo, Foldit), combo training and virtual bioengineering (amino labs), open-source robotic dogs for “sniff out” environmental toxins)
-- Rapid displacement of low skill labor
-- Distributed work/ Project-based organizations (replacement of managers with outsourcing software that divvy’s up work to specialists (CrowdFlower), remote workers/ contract workers (glance, upwork), shifting teams, mercenary economy/ what happens when we’re all piecing together identities among many crowds/ organizations?))
-- Modern day isolation, tech, and the impact on tribalism/ biology
-- Personalization of everything (custom fiction)
-- Network: Integration of everything/ always connected (increased speed of coordination, IoT, implications with surveillance (who owns the information? preventative actions, ie., Minority Report/ public data (you) vs. crypto online data))
-- Connected brain + AI/ cyborgization of people/ exo-cortex (plays with “push economy,” programmable people/ blurred lines of “true experiences” and augmented, what are your own thoughts?, diminished reliance on human/ animal senses (ie., reduced ability to pick up non-verbal cues), “what do I want to do today? -> “here is what you will want to do today”))
-- Continued globalization and/ also Back to city state? (friction between governments/ jurisdiction of different municipalities (ie., state vs. city), bowdlerization of local/ geographical internets (ie., China))
-- Specialized internet/ niche cloud supercomputer (ties in with specialized AI)
-- Increasing lifespan (estimated that by 2025, the number of Americans over 60 will increase by 70%, Multiple careers will be commonplace and lifelong learning to prepare for occupational change)
-- Accessibility of media (everyone creates (ie., snapchat, fan fiction, remixed movie trailers), fabricated sporting)
-- Semblance of control built in as part of experience/ false agency (especially as it relates to “push economy,” idea virus/ ems of the Sumerian language (reference: Snow Crash))
-- Changing definition of computers (ie., biological and quantum)
+- **All digital shopping?** (virtual shopping everywhere (ie., Tesco’s virtual grocery store in Korea, Starbucks car dashboard app) eliminate need to go to store/ JIT delivery or store pick up, eliminate need to make decision to order (ie., Amazon’s button, or refrigerators that know when milk is low)
+- **Increasing amount of free/ leisure time** (connect with food: more home-cooked meals + products that help to learn (Blue Apron) + health + studies showing less mindful eating (HAPIfork) = bigger waistline //
+- **Altering senses and changing behavior** ([using VR to augment pain for burn victims](http://designmind.frogdesign.com/2016/06/virtual-reality-vrcare-frog/), [magnet in finger tip to feel magnetic fields](https://www.wired.com/2006/06/a-sixth-sense-for-a-wired-world/), altering body/ how food tastes to move away from natural proclivities towards salt, fat, sugar/ tricking body to believe it’s eating something else by altering senses)
+- **Open-source governance** (how Estonia is changing the game)
+- **Extensions beyond cryptocurrency, and how this can influence governance** Beyond government as we know it
+- **Cycle of impacts from automation technology**
+- **Attention economy** -> “[push of the web](http://buytaert.net/the-big-reverse-of-the-web)/ push economy" (how FB algorithm works, contextualization of information, echo-chamber/ constructed thinking)
+- **Citizen scientists or cheap labor?** (the changing dynamic of employee/ organization. Free agent society?, pooling of personal data (ie., PatientsLikeMe), organizational volunteering (i.e., [Galaxy Zoo](https://www.galaxyzoo.org/), Foldit), combo training and virtual bioengineering ([amino labs](http://www.amino.bio/100kbio)), [open-source robotic dogs](http://www.interactivearchitecture.org/feral-robotic-dogs-natalie-jeremijenko.html) for “sniff out” environmental toxins)
+- **Rapid displacement of low skill labor**
+- **Distributed work/ Project-based organizations** (replacement of managers with outsourcing software that divvy’s up work to specialists ([CrowdFlower](https://www.crowdflower.com/)), remote workers/ contract workers (glance, upwork), shifting teams, mercenary economy/ what happens when we’re all piecing together identities among many crowds/ organizations?))
+- **Modern day isolation, tech, and the impact on tribalism/ biology**
+- **Personalization of everything** (fan fiction)
+- **Network: Integration of everything/ always connected** (increased speed of coordination, IoT, implications with surveillance (who owns the information? preventative actions, ie., Minority Report/ public data (you) vs. crypto online data))
+- **Connected brain + AI/ cyborgization of people/ exo-cortex** (plays with “push economy,” programmable people/ blurred lines of “true experiences” and augmented, what are your own thoughts?, diminished reliance on human/ animal senses (ie., reduced ability to pick up non-verbal cues), “what do I want to do today? -> “here is what you will want to do today”))
+- **Continued globalization and/ also Back to city state?** (friction between governments/ jurisdiction of different municipalities (ie., [state vs. city policies](http://www.slate.com/articles/business/metropolis/2016/09/phoenix_mayor_greg_stanton_is_fed_up_with_arizona_pre_empting_his_city_s.html)), bowdlerization of local/ geographical internets (ie., China))
+- **Specialized internet/ niche cloud supercomputer** (ties in with specialized AI)
+- **Increasing lifespan** (estimated that by 2025, the number of Americans over 60 will increase by 70%, Multiple careers will be commonplace and lifelong learning to prepare for occupational change)
+- **Constant accessibility of media** (everyone creates (ie., snapchat, fan fiction, remixed movie trailers), [fabricated sporting](https://howwegettonext.com/at-play-on-the-field-of-ghosts-905b28acfe33#.orlfkku1u))
+- **Semblance of control built in as part of experience/ false agency** (especially as it relates to “push economy,” idea virus/ ems of the Sumerian language (reference: [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)))
+- **Changing definition of computers** (ie., biological and quantum)
